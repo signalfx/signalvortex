@@ -1,3 +1,5 @@
+   >ℹ️&nbsp;&nbsp;SignalFx was acquired by Splunk in October 2019. See [Splunk SignalFx](https://www.splunk.com/en_us/investor-relations/acquisitions/signalfx.html) for more information.
+   
    Copyright 2020 Splunk Inc.
 
    Licensed under the Apache License, Version 2.0 (the "License");
